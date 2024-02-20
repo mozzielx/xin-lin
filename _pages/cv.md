@@ -32,27 +32,6 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
   -->
-    
-Skills
-======
-* 2D&3D design
-  * Solidworks
-  * Creo Parametric
-  * AutoCAD
-* Programming
-  * Python
-  * Labview
-  * Matlab
-  * C
-
-Hobbies
-======
-* Hiking
-* Camping
-* Kayaking
-* Working out
-* Photography
-* Tennis
 
 Publications
 ======
@@ -73,7 +52,31 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
+    
+Skills
+======
+* Biomechanical analysis
+  * Motion analysis
+  * Visual 3D
+* 2D&3D design
+  * Solidworks
+  * Creo Parametric
+  * AutoCAD
+* Programming
+  * Python
+  * Labview
+  * Matlab
+  * C
 
+Hobbies
+======
+* Hiking
+* Camping
+* Kayaking
+* Working out
+* Photography
+* Tennis
+  
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
