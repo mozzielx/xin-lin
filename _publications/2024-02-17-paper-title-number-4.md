@@ -6,7 +6,7 @@ excerpt: 'This paper proposed a model to predict how ground reaction force react
 date: 2020-10-17
 venue: 'Gait & posture'
 paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0966636220305300'
-citation: 'Leng, Y., Lin, X., Lu, Z., Song, A., Yu, Z., & Fu, C. (2020). &quot;A model to predict ground reaction force for elastically-suspended backpacks.&quot; <i>Gait & posture</i>. 82, 118-125.'
+citation: 'Leng, Y., <b>Lin, X.</b>, Lu, Z., Song, A., Yu, Z., & Fu, C. (2020). &quot;A model to predict ground reaction force for elastically-suspended backpacks.&quot; <i>Gait & posture</i>. 82, 118-125.'
 ---
 <b>Highlights</b>
 •Fatigue of legs mainly affect the walking endurance of human body.
