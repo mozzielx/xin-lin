@@ -56,26 +56,15 @@ Teaching
 Skills
 ======
 * Biomechanical analysis
-  * Motion analysis
-  * Visual 3D
+  * Motion analysis, Visual 3D
 * 2D&3D design
-  * Solidworks
-  * Creo Parametric
-  * AutoCAD
+  * Solidworks, Creo Parametric, AutoCAD
 * Programming
-  * Python
-  * Labview
-  * Matlab
-  * C
+  * Python, Labview, Matlab, C
 
 Hobbies
 ======
-* Hiking
-* Camping
-* Kayaking
-* Working out
-* Photography
-* Tennis
+* Hiking, Camping, Kayaking, Working out, Photography, Tennis
   
 Awards
 ======
