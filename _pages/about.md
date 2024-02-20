@@ -15,3 +15,5 @@ My background and history
 I received my B.A. from China University of Mining and Technology, majoring in mechanical engineering. During my college years, I led several teams and served as a core member in various provincial and national competitions. Currently, I'm pursuing my Ph.D. at Harbin Institute of Technology, supervised by Prof. Chenglong Fu. During my Ph.D., I dedicated three years (2020-2023) to co-founding a startup company to provide tutoring classes. Unfortunately, it didn't survive the challenges posed by Covid-19.
 
 I have a bit of an adventurous spirit. I enjoy hiking, camping in the wild, and sea kayaking (check out my blog posts). However, I don't like getting sunburned, so you will probably see me fully covered. Also, I enjoy photography, especially bird photography.
+
+By the way, I like self-driving tours (went to Sichuan, Yunnan and Tibet) and slept a lot in my car.
