@@ -5,7 +5,7 @@ permalink: /publication/2024-01-26-paper
 excerpt: 'This article aimed to investigate the biomechanical mechanisms underlying the energetic advantages of the suspended backpacks during load carriage.'
 date: 2024-01-26
 venue: 'IEEE Transactions on Biomedical Engineering'
-paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://ieeexplore.ieee.org/document/10416375)'
+paperurl: 'https://ieeexplore.ieee.org/document/10416375'
 citation: '<b>Lin, X.</b>, Yin, S., Du, H., Leng, Y., & Fu, C. (2024). &quot;Biomechanical Consequences of Walking with the Suspended Backpacks.&quot; <i>IEEE Transactions on Biomedical Engineering</i>.'
 ---
 
