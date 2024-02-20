@@ -1,12 +1,20 @@
 ---
-title: "Paper Title Number 4"
+title: "A model to predict ground reaction force for elastically-suspended backpacks"
 collection: publications
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+excerpt: 'This paper proposed a model to predict how ground reaction force reacts with different suspended backpack parameters during load carriage.'
+date: 2020-10-17
+venue: 'Gait & posture'
+paperurl: 'https://www.sciencedirect.com/science/article/abs/pii/S0966636220305300'
+citation: 'Leng, Y., Lin, X., Lu, Z., Song, A., Yu, Z., & Fu, C. (2020). &quot;A model to predict ground reaction force for elastically-suspended backpacks.&quot; <i>Gait & posture</i>. 82, 118-125.'
 ---
+<b>Highlights</b>
+•Fatigue of legs mainly affect the walking endurance of human body.
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+•Human with elastically-suspended backpack (ESB) is modeled combining bipedal model.
+
+•The model could quantitatively predict ground reaction forces (GRFs) of each leg.
+
+•ESBs could produce positive or negative effect of GRF under different parameters.
+
+•The model could help us optimize structure parameters of ESBs.
