@@ -14,6 +14,7 @@ Education
 * Ph.D in Mechanical Engineering, GitHub University, 2024 (expected)
 * B.S. in Mechanical Engineering, GitHub University, 2012
 
+<!--
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -30,7 +31,8 @@ Work experience
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+  -->
+    
 Skills
 ======
 * Skill 1
