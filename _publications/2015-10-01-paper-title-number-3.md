@@ -5,7 +5,7 @@ permalink: /publication/2024-02-02-paper
 excerpt: 'In this study, we designed a suspended backpack with wide-range variable stiffness suspension for reducing energetic cost at different working conditions.'
 date: 2024-02-02
 venue: 'IEEE Transactions on Human-Machine Systems'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10419156'
 citation: '<b>Lin, X.</b>, Yin, S., Du, H., Leng, Y., & Fu, C. (2024). &quot;Design and Investigation of a Suspended Backpack With Wide-Range Variable Stiffness Suspension for Reducing Energetic Cost.&quot; <i>IEEE Transactions on Human-Machine Systems</i>.'
 ---
 
