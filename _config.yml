@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Xin Lin's website"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Xin Lin"
 description              : &description "personal description"
 url                      : https://mozzielx.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/xin-lin" # the subpath of your site, e.g. "/blog"
@@ -25,8 +25,8 @@ author:
   name             : "Xin Lin"
   pronouns         : # example: "she/her"  
   bio              : "自信人生一百年，会当纵横九万里"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Shenzhen, China"
+  employer         : "Southern University of Science and Technology"
   uri              : # URL
   email            : "11849602@mail.sustech.edu.cn" 
 
