@@ -1,7 +1,7 @@
 ---
 title: "A model to predict ground reaction force for elastically-suspended backpacks"
 collection: publications
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2020-10-17-paper
 excerpt: 'This paper proposed a model to predict how ground reaction force reacts with different suspended backpack parameters during load carriage.'
 date: 2020-10-17
 venue: 'Gait & posture'
