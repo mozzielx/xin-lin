@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Mechanical Engineering, GitHub University, 2024 (expected)
-* B.S. in Mechanical Engineering, GitHub University, 2012
+* Ph.D in Mechanical Engineering, Harbin Institute of Technology, 2024 (expected)
+* B.S. in Mechanical Engineering, China University of Mining and Technology, 2018
 
 <!--
 Work experience
