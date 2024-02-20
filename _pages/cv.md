@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Xin Lin"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -35,12 +35,24 @@ Work experience
     
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* 2D&3D design
+  * Solidworks
+  * Creo Parametric
+  * AutoCAD
+* Programming
+  * Python
+  * Labview
+  * Matlab
+  * C
+
+Hobbies
+======
+* Hiking
+* Camping
+* Kayaking
+* Working out
+* Photography
+* Tennis
 
 Publications
 ======
