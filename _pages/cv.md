@@ -53,6 +53,16 @@ Teaching
   {% endfor %}</ul>
 -->
     
+Awards
+======
+* 2017 National Challenge Cup, core member, third prize
+* 2017 Jiangsu Province Challenge Cup, core member, first prize
+* 2017 National Virtual Instrument Competition, leader, excellent prize
+* 2016 6th Jiangsu Province College Student Mechanical Innovation Design Competition, participant, second prize
+* 2016 Jiangsu Province Navigation Cup, leader, second prize
+* 2016 3rd Jiangsu Province Virtual Instrument Competition, leader, third prize
+* 2015 School 129 Long-distance Running Competition, first prize
+
 Skills
 ======
 * Biomechanical analysis
@@ -66,12 +76,3 @@ Hobbies
 ======
 * Hiking, Camping, Kayaking, Working out, Photography, Tennis
   
-Awards
-======
-* 2017 National Challenge Cup, core member, third prize
-* 2017 Jiangsu Province Challenge Cup, core member, first prize
-* 2017 National Virtual Instrument Competition, leader, excellent prize
-* 2016 6th Jiangsu Province College Student Mechanical Innovation Design Competition, participant, second prize
-* 2016 Jiangsu Province Navigation Cup, leader, second prize
-* 2016 3rd Jiangsu Province Virtual Instrument Competition, leader, third prize
-* 2015 School 129 Long-distance Running Competition, first prize
