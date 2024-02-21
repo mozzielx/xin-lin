@@ -14,24 +14,9 @@ Education
 * Ph.D in Mechanical Engineering, Harbin Institute of Technology, 2024 (expected)
 * B.S. in Mechanical Engineering, China University of Mining and Technology, 2018
 
-<!--
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  -->
+* 2019-2023: Co-funder of a start-up company that provides tutoring classes
 
 Publications
 ======
