@@ -16,7 +16,7 @@ Education
 
 Work experience
 ======
-* 2019-2023: Co-funder of a start-up company that provides tutoring classes
+* 2019-2023: Co-funder of a start-up company that provided tutoring classes
 
 Publications
 ======
