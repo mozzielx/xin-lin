@@ -25,8 +25,8 @@ author:
   name             : "Xin Lin"
   pronouns         : # example: "she/her"  
   bio              : "自信人生一百年，会当纵横九万里"
-  location         : "Shenzhen, China"
-  employer         : "Southern University of <br>Science and Technology"
+  # location         : "Shenzhen, China"
+  # employer         : "Southern University of <br>Science and Technology"
   uri              : # URL
   email            : "11849602@mail.sustech.edu.cn" 
 
